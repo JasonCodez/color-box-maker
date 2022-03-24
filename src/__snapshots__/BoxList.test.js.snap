@@ -1,0 +1,61 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`matches snapshot 1`] = `
+<DocumentFragment>
+  <div>
+    <div>
+      <h2>
+        Add New Box
+      </h2>
+      <form>
+        <label
+          for="backgroundColor"
+        >
+          Background Color 
+        </label>
+        <input
+          autocomplete="off"
+          id="backgroundColor"
+          name="backgroundColor"
+          placeholder="background color"
+          required=""
+          type="text"
+          value=""
+        />
+        <label
+          for="width"
+        >
+          Width 
+        </label>
+        <input
+          autocomplete="off"
+          id="width"
+          name="width"
+          placeholder="width"
+          required=""
+          type="text"
+          value=""
+        />
+        <label
+          for="height"
+        >
+          Height 
+        </label>
+        <input
+          autocomplete="off"
+          id="height"
+          name="height"
+          placeholder="height"
+          required=""
+          type="text"
+          value=""
+        />
+        <button>
+          Add Box
+        </button>
+      </form>
+    </div>
+    <div />
+  </div>
+</DocumentFragment>
+`;
